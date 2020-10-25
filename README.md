@@ -19,6 +19,6 @@
 
 ## Tech Stack
 
-##### html , Css , DOM
+##### html , CSS , DOM
 
 > ##### :red_circle: This Project Is Part Of FullStack Barmej BootCamp Education
