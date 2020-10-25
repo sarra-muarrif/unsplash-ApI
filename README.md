@@ -11,7 +11,7 @@
 -  open index.html on brawser.
 
 ## ScreenShot
-![photo API](https://user-images.githubusercontent.com/57108825/97112605-6956e380-16f6-11eb-8ed9-6631911b0d51.gif)
+![photo-API](https://user-images.githubusercontent.com/57108825/97112728-f13ced80-16f6-11eb-911d-54786e95f496.gif)
 
 
 ## Tech Stack
